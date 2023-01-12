@@ -15,6 +15,11 @@ But the Z axis mounts stop you from mounting them on the sides. So I made some a
 
 <img src="Images/Lights.JPG" width="400">
 
+## RAMPS Box
+A box for RAMPS1.4, an external MOSFET and an 80mm fan
+
+<img src="Images/Ramps box front.JPG" width="400"><img src="Images/Ramps box rear.JPG" width="400">
+
 ## Umbilical Mount
 A quick and easy way to mount the umbilical to the rear extrusion
 
