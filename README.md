@@ -20,6 +20,11 @@ A box for RAMPS1.4, an external MOSFET and an 80mm fan
 
 <img src="Images/Ramps box front.JPG" width="400"><img src="Images/Ramps box rear.JPG" width="400">
 
+## Vertical Bowden Holder
+Used in conjunction with the Bowden Tube Holder from the Trident assembly to hold the bowden tube next to the umbilical.
+
+<img src="Images/Vertical Bowden Holder.JPG" width="400">
+
 ## Umbilical Mount
 A quick and easy way to mount the umbilical to the rear extrusion
 
