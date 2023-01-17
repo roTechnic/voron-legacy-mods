@@ -15,6 +15,11 @@ But the Z axis mounts stop you from mounting them on the sides. So I made some a
 
 <img src="Images/Lights.JPG" width="400">
 
+## Klicky Under Dock
+A dock for Klicky and KlickyNG which attaches to the rear of the top extrusion and does not interfere with any lights attached to the underside of the top extrusion.
+
+<img src="Images/Klicky under dock.JPG" width="400">
+
 ## RAMPS Box
 A box for RAMPS1.4, an external MOSFET and an 80mm fan
 
